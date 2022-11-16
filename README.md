@@ -4,5 +4,5 @@
 # Team Leader -  Dhanush S
 
 # Team Members - Hariharan S
-                 Gopikishore S
-                 SamsonRaja RS
+               # Gopikishore S
+               # SamsonRaja RS
