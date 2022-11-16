@@ -1,8 +1,7 @@
 # IBM-Project-46792-1660759835
 
 
-# Team Leader -  Dhanush S
-
-# Team Members - Hariharan S
-               # Gopikishore S
-               # SamsonRaja RS
+# Dhanush S - Team Lead
+# Hariharan S - Team Member
+# Gopikishore S - Team Member
+# SamsonRaja RS - Team Member
