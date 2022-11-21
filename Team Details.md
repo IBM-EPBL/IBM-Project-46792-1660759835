@@ -1,10 +1,10 @@
-Team Lead :-
+# **Team Lead :-**
 
 DHANUSH S
 dhanush.sadhasivan@gmail.com
 7092880885
 
-Team Members :-
+# **Team Members :-**
 
 1. HARIHARAN S
     hariharansrikanth2@gmail.com
